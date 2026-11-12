@@ -31,7 +31,7 @@ class ModelConfig:
     history: int = 16  # k
     embed: int = 16  # d
     hidden: int = 256
-    lr: float = 2e-3
+    lr: float = 5e-3
     seed: int = 0
 
 

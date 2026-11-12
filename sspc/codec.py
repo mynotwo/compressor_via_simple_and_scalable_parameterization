@@ -33,7 +33,7 @@ FREQ_TOTAL = 1 << 16  # quantised probability scale
 @dataclass(frozen=True)
 class CodecConfig:
     model: ModelConfig = field(default_factory=ModelConfig)
-    streams: int = 64
+    streams: int = 32
 
 
 def quantize(prob: np.ndarray) -> np.ndarray:
