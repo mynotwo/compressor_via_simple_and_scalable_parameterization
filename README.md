@@ -1,6 +1,6 @@
 # sspc: online learned lossless compression with an ordered-mask MLP
 
-Companion code for *Accelerating General-Purpose Lossless Compression via Simple
+Companion code for *Accelerating General-Purpose Lossless Compression via Simple and
 Scalable Parameterization* (Yu Mao, Yufei Cui, Tei-Wei Kuo, Chun Jason Xue,
 ACM Multimedia 2022). [Paper PDF](https://mynotwo.github.io/assets/pdfs/accelerating-lossless.pdf)
 
